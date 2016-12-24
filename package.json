@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "training app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gm1190/hello-world.git"
+  },
+  "author": "meghendra.ganta@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gm1190/hello-world/issues"
+  },
+  "homepage": "https://github.com/gm1190/hello-world#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.2.0"
+  }
+}
